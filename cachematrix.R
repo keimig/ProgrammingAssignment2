@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## functions do - version 1.1
 
 ## The makeCacheMatrix function implements a special matrix where 
 ## inverse of the matrix is cached.   The data are encapsulated 
